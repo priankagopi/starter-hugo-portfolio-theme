@@ -1,7 +1,7 @@
 ---
 title: Priyanka Gopi (ಪ್ರಿಯಾಂಕಾ ಗೋಪಿ)
 role: ""
-avatar_filename: 355422496_967312104307722_5375870405519878073_n.jpg
+avatar_filename: heh.jpeg
 bio: "My research interests include "
 superuser: true
 status:
