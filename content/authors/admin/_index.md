@@ -3,9 +3,6 @@ title: Priyanka Gopi (ಪ್ರಿಯಾಂಕಾ ಗೋಪಿ)
 role: ""
 avatar_filename: heh.jpeg
 bio: "My research interests include "
-superuser: true
-status:
-  icon: ☕️
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,10 +13,20 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+education:
+  courses:
+    - course: Master's in Computer Science
+      institution: University of Central Florida
+      year: 2
+superuser: true
+status:
+  icon: ☕️
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A dedicated and results-driven data science and engineering professional, equipped with a strong academic background and a genuine passion for leveraging data to solve complex problems. Currently pursuing an MS in Computer Science with a specialization in Machine learning, I am actively seeking opportunities to apply my skills in a dynamic and innovative environment. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+Outside of the data realm, I am an avid learner and continuously seek out opportunities to expand my knowledge and skill set. I am deeply fascinated by the intersection of technology and society and strive to contribute to the development of cutting-edge solutions that have a meaningful impact on businesses and society as a whole. Apart from work, I love reading and absolutely enjoy being outdoors surrounded by nature as much as possible.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
