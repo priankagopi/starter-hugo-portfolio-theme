@@ -14,10 +14,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 education:
-  courses:
-    - course: Master's in Computer Science
-      institution: University of Central Florida
-      year: 2
+  courses: []
 superuser: true
 status:
   icon: ☕️
